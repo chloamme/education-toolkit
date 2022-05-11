@@ -36,8 +36,7 @@ Hugging Face 팀 멤버에게 튜토리얼 강연을 요청하기 위해서는 [
 >
 > **_소요시간: 20-40 분_**
 >
-> 👉 [튜토리얼 바로가기](https://github.com/huggingface/education-toolkit/blob/main/01_huggingface-hub-tour.md) 또는 👩‍🏫 [강의 자료(슬라이드)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
-
+> 👉 [튜토리얼 바로가기](https://github.com/huggingface/education-toolkit/blob/main/tutorials/KO/01_huggingface-hub-tour.md) 또는 👩‍🏫 [강의 자료(슬라이드)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ Gradio와 Hugging Face를 사용한 머신러닝 데모 및 호스팅
 
